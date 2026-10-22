@@ -5,7 +5,7 @@ technical writer and CTI/OSINT researcher, with a security and rural-tech backgr
 working terminal: boot log, clickable command chips and a real command line with history, tab
 completion and three terminal themes.
 
-**Project location:** /home/soler/Projects/PizcaWeb
+
 
 **Repository:** https://github.com/holasoysoler/PizcaWeb
 
