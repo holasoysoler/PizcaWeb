@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nSitemap: https://www.pizca.me/sitemap.xml\n
