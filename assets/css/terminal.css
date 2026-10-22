@@ -602,6 +602,9 @@ html.js .boot__line {
   display: block;
   width: 100%;
   height: auto;
+  filter:
+    drop-shadow(0 0.10em 0.10em rgba(0, 0, 0, 0.38))
+    drop-shadow(0 0 0.42em var(--accent-glow));
 }
 
 .banner__tagline {
@@ -763,6 +766,9 @@ html.js .boot__line {
   width: 100%;
   max-width: 700px;
   height: auto;
+  filter:
+    drop-shadow(0 0.10em 0.10em rgba(0, 0, 0, 0.38))
+    drop-shadow(0 0 0.42em var(--accent-glow));
 }
 .out__pre.dim {
   color: var(--fg-faint);

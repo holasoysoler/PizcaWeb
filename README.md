@@ -101,7 +101,7 @@ pizca.me and www.pizca.me to it from Project → Settings → Domains.
   Adjust or delete it if your project already manages headers.
 - The HTML is intentionally uncached ("max-age=0, must-revalidate") so copy changes appear on reload.
   CSS and JS are revalidated on every load too; fonts and images are immutable. The index links use
-  ?v=7 as an extra cache-buster — bump that suffix when you make a visually obvious asset change.
+  ?v=8 as an extra cache-buster — bump that suffix when you make a visually obvious asset change.
 - No redirects are required. Navigation is in-page; everything is one URL plus hash/query shortcuts.
 - If you deploy under a subpath instead of the domain root, asset URLs are relative and will work,
   but the canonical/OG URLs in index.html should be updated.
