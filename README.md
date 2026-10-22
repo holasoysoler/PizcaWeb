@@ -7,6 +7,8 @@ completion and three terminal themes.
 
 **Project location:** /home/soler/Projects/PizcaWeb
 
+**Repository:** https://github.com/holasoysoler/PizcaWeb
+
 **Live:** https://www.pizca.me/ — deployed 2026-10-22 on Vercel (project pizca, Framework: Other, Node 24.x).
 
 The narrative is deliberately specific: fifteen years of professional kitchens → three years as an
